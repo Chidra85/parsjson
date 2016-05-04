@@ -1,0 +1,41 @@
+[{
+	"name": "Zizou",
+	"phone": "023456789",
+	"age": 34,
+	"adress": "209 rue 34000 tartonpion",
+	"techs": {
+		"php": 7,
+		"js": 3,
+		"nodeJs": 12
+	}
+}, {
+	"name": "Ronaldo",
+	"phone": "023456789",
+	"age": 34,
+	"adress": "209 rue 34000 Madrid",
+	"techs": {
+		"php": 7,
+		"js": 3,
+		"nodeJs": 12
+	}
+}, {
+	"name": "Messi",
+	"phone": "023456789",
+	"age": 34,
+	"adress": "209 rue 34000 Barcelone",
+	"techs": {
+		"php": 7,
+		"js": 3,
+		"nodeJs": 12
+	}
+}, {
+	"name": "Benzema",
+	"phone": "023456789",
+	"age": 34,
+	"adress": "209 rue 34000 Lyon",
+	"techs": {
+		"php": 7,
+		"js": 3,
+		"nodeJs": 12
+	}
+}]
